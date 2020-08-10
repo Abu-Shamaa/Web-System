@@ -1,0 +1,30 @@
+[23-Feb-2020 06:05:03 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:05:14 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 13
+[23-Feb-2020 06:05:14 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 19
+[23-Feb-2020 06:05:14 America/New_York] PHP Notice:  Trying to get property of non-object in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 21
+[23-Feb-2020 06:05:15 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:05:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 13
+[23-Feb-2020 06:05:42 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 19
+[23-Feb-2020 06:05:42 America/New_York] PHP Notice:  Trying to get property of non-object in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 21
+[23-Feb-2020 06:05:42 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:07:24 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 13
+[23-Feb-2020 06:07:24 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 19
+[23-Feb-2020 06:07:24 America/New_York] PHP Notice:  Trying to get property of non-object in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 21
+[23-Feb-2020 06:07:24 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:07:35 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:07:45 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 13
+[23-Feb-2020 06:07:45 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 19
+[23-Feb-2020 06:07:45 America/New_York] PHP Notice:  Trying to get property of non-object in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 21
+[23-Feb-2020 06:07:46 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:09:00 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:09:15 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 13
+[23-Feb-2020 06:09:15 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 19
+[23-Feb-2020 06:09:15 America/New_York] PHP Notice:  Trying to get property of non-object in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/signin.php on line 21
+[23-Feb-2020 06:09:15 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/index.php on line 3
+[23-Feb-2020 06:23:26 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[29-Feb-2020 14:17:12 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[05-Mar-2020 11:29:52 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[05-Mar-2020 11:29:53 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[05-Mar-2020 12:43:04 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[05-Mar-2020 13:35:10 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
+[05-Mar-2020 13:45:38 America/New_York] PHP Notice:  Undefined index: admin in /home/neuoygiy/demo.neuon.ai/agrifarm/admin/session.php on line 9
